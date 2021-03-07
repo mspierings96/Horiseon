@@ -8,6 +8,12 @@ Upon opening the original code from the website, the site lacked proper semantic
 
 ## Screenshot of my completed website
 
+Multiple Screenshots taken of my website at 90% viewing:
+
+https://github.com/mspierings96/Horiseon/blob/main/Completed%20Website%20Screenshot%201.png
+
+https://github.com/mspierings96/Horiseon/blob/main/Completed%20Website%20Screenshot%202.png
+
 
 ## Built With
 * HTML
