@@ -22,5 +22,8 @@ https://github.com/mspierings96/Horiseon/blob/main/Completed%20Website%20Screens
 ## Website
 https://mspierings96.github.io/Horiseon/
 
+## Git Repo Link
+https://github.com/mspierings96/Horiseon
+
 
 ### Horiseon 2021
